@@ -1,11 +1,11 @@
-#CSE Intro Project 
- ##Description 
+# CSE Intro Project 
+ ## Description 
  Practice project for learning git 
- ##Technologies 
+ ## Technologies 
  WSL 
- ##How to Run 
+ ## How to Run 
  Computer 
- ##What I Learned 
+ ## What I Learned 
  basic git commands 
- ##Future Improvements 
+ ## Future Improvements 
  learning git more 
