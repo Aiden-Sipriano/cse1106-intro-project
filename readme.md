@@ -2,10 +2,10 @@
  ## Description 
  Practice project for learning git 
  ## Technologies 
- WSL 
+ WSL/git 
  ## How to Run 
- Computer 
+ Computer with access to the internet 
  ## What I Learned 
  basic git commands 
  ## Future Improvements 
- learning git more 
+ Need to learn and practice git  
